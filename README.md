@@ -5,7 +5,6 @@ This project focuses on building a **Big Data Analytics solution** to process an
 
 Using **Python-based data analysis and visualization techniques**, this project analyzes healthcare datasets to uncover trends, patterns, and relationships that support **data-driven decision-making**.
 
----
 
 ## 🎯 Objectives
 - Process large healthcare datasets efficiently  
@@ -14,7 +13,6 @@ Using **Python-based data analysis and visualization techniques**, this project 
 - Create meaningful visualizations  
 - Support decision-making through data insights  
 
----
 
 ## 🛠️ Tools & Technologies
 - Apache Spark  
@@ -22,7 +20,6 @@ Using **Python-based data analysis and visualization techniques**, this project 
 - Matplotlib  
 - Seaborn  
 
----
 
 ## 📂 Dataset
 The dataset used in this project is a **Healthcare dataset (CSV format)** which includes:
@@ -31,7 +28,6 @@ The dataset used in this project is a **Healthcare dataset (CSV format)** which 
 - Treatment details  
 - Health-related metrics  
 
----
 
 ## ⚙️ Project Workflow
 
@@ -57,7 +53,6 @@ Created visual insights using:
 - Heatmaps  
 - Distribution plots  
 
----
 ## 💡 Key Insights
 - Identified significant patterns in patient data, highlighting variations in healthcare outcomes across different demographics  
 - Discovered correlations between medical conditions and key health indicators using statistical visualization techniques  
@@ -65,7 +60,7 @@ Created visual insights using:
 - Visualized high-risk groups and critical factors affecting patient health outcomes  
 - Simplified complex healthcare data into intuitive visual representations for easier interpretation  
 
----
+
 
 ## 📈 Future Improvements
 - Integrate real-time healthcare data streaming using Apache Spark  
@@ -81,6 +76,4 @@ Samadhi Jayasundara
 📜 License
 
 This project is for academic and educational purposes.
----
 
-## 📁 Repository Structure
