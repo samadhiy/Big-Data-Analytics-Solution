@@ -22,11 +22,7 @@ Using **Python-based data analysis and visualization techniques**, this project 
 
 
 ## 📂 Dataset
-The dataset used in this project is a **Healthcare dataset (CSV format)** which includes:
-- Patient demographics  
-- Medical conditions  
-- Treatment details  
-- Health-related metrics  
+The dataset used in this project is a **Healthcare dataset (CSV format)
 
 
 ## ⚙️ Project Workflow
